@@ -1,0 +1,6 @@
+{
+  "name": "Telco Churn Analytics Dashboard",
+  "description": "An interactive machine learning and business intelligence dashboard for the IBM Telco Churn dataset, enabling model evaluation, data exploration, sandbox scenarios, and downloading a Python Streamlit app.py submission.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
